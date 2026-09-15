@@ -40,15 +40,28 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ 
+
+
+## 📊 Top Languages
+
+ [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MGBryan03)](https://github.com/stats-organization/github-stats-extended)
+
+
+## 📈 GitHub Stats
+
+[![Bryan stats](https://github-stats-extended.vercel.app/api?username=MGBryan03)](https://github.com/stats-organization/github-stats-extended)
 
 
 
 
+## 🔥 Streak de desenvolvimento
 
+ 
 
+ 
 
 
 
  
-[![Bryan stats](https://github-stats-extended.vercel.app/api?username=MGBryan03)](https://github.com/stats-organization/github-stats-extended)
 
