@@ -1,5 +1,9 @@
-Olá
-Eu sou o Miguel Bryan, sou um programador Front-End, atualmente estou aprendendo e criando projetos com:
+### Olá, sou Bryan
+<br>
+ Bem-vindo ao meu perfil
+ 
+
+Sou um programador Front-End, atualmente estou aprendendo e criando projetos com:
 
 <br>
 <br>
@@ -9,3 +13,8 @@ Eu sou o Miguel Bryan, sou um programador Front-End, atualmente estou aprendendo
 
 
 e iniciando o aprendizado de JavaScript ES2026 e React.
+
+
+
+[![Bryan stats](https://github-stats-extended.vercel.app/api?username=MGBryan03)](https://github.com/stats-organization/github-stats-extended)
+
